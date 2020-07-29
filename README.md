@@ -1,4 +1,4 @@
-# EAST-Text-Detection-and-Extraction
+# Text-Detection-and-Extraction
 Extraction of Critical Information from Medical Images
 
 Youtube link : https://www.youtube.com/watch?v=qE5GaLln3K4
